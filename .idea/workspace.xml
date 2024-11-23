@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43f8d22c-594a-47cd-8a15-b039a92eb301" name="Changes" comment="This" />
+    <list default="true" id="43f8d22c-594a-47cd-8a15-b039a92eb301" name="Changes" comment="This is my final capstone project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,6 +108,31 @@
       <option name="presentableId" value="Default" />
       <updated>1731708663000</updated>
     </task>
+    <task id="LOCAL-00001" summary="This is my final capstone project">
+      <option name="closed" value="true" />
+      <created>1732227177389</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732227177389</updated>
+    </task>
+    <task id="LOCAL-00002" summary="This is my final capstone project">
+      <option name="closed" value="true" />
+      <created>1732227326178</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732227326178</updated>
+    </task>
+    <task id="LOCAL-00003" summary="This is my final capstone project">
+      <option name="closed" value="true" />
+      <created>1732227494031</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732227494031</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +145,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is my final capstone project" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is my final capstone project" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BenFinalCapstone$TestRunner.ic" NAME="TestRunner Coverage Results" MODIFIED="1731890600257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
